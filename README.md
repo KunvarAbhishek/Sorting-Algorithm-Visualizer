@@ -5,6 +5,7 @@ This is a lightweight and interactive **Sorting Algorithm Visualizer** built usi
 👉 **[Live Demo](https://tinyurl.com/sorting-alogorithm)**
 
 ---
+<img width="1886" height="917" alt="screenshot-1754641920124" src="https://github.com/user-attachments/assets/f92067b0-03e8-46d0-a5dd-68aa70e4f52a" />
 
 ## 🌟 Features
 
